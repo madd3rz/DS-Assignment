@@ -3,6 +3,8 @@ import java.util.List;
 
 public class Threading {
 
+	//TODO: change some variable names to alternative name 
+
 	// this server will make first character search from 33 to 127
 	static List<MD5Thread> threads = new ArrayList<MD5Thread>();
 	
